@@ -25,3 +25,13 @@ __Component (B) :__ This component (involving the program index.js & index.html)
 
 **TL;DR** Component (B) handles appropriate server requests & sent proper response after querying the database.
 
+__Test case for input containing non-numeric character :__<br>
+<img src="https://imgur.com/gOr1reX.png"/><br>
+__Test case for input containing -ve symbol :__<br>
+<img src="https://imgur.com/gSiuk0x.png"/><br>
+__Test case for input containing input = 0 :__<br>
+<img src="https://imgur.com/07VvG0f.png"/><br>
+__Test case for input containing input = 4 :__<br>
+<img src="https://imgur.com/r2g1TvB.png"/><br>
+__Test case for input containing input = 6 :__<br>
+<img src="https://imgur.com/5sTpSJt.png"/><br>
