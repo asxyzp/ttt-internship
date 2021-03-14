@@ -28,10 +28,10 @@ http.createServer(function(req, res) {	//Creating a server
 		//Creating connection to the database
 		let con = mysql.createConnection({
 			host: 'remotemysql.com',
-			port: 3306,
-			user: 'zsdGsYEfZK',
-			password: 'iGOqgSnlIC',
-			database: 'zsdGsYEfZK'
+			port: 0000,
+			user: '',
+			password: '',
+			database: ''
 		});
 		con.connect(function(err) {
 			if (err)
